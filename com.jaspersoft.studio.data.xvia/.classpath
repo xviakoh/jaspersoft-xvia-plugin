@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/FullAPIClient.jar" sourcepath="/Users/koh/dev/FullAPIJava/src"/>
+	<classpathentry kind="lib" path="lib/jackson-datatype-joda-2.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="lib/httpasyncclient-4.0.2.jar"/>
+	<classpathentry kind="lib" path="lib/httpclient-4.3.4.jar"/>
+	<classpathentry kind="lib" path="lib/httpmime-4.3.4.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-annotations-2.1.0.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-core-2.1.0.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-databind-2.1.0.jar"/>
+	<classpathentry kind="lib" path="lib/joda-time-2.1.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-api-2.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-core-2.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/usertype.core-3.1.0.CR1.jar"/>
+	<classpathentry kind="lib" path="lib/validation-api-1.0.0.GA.jar"/>
+	<classpathentry kind="lib" path="lib/httpcore-nio-4.3.2.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

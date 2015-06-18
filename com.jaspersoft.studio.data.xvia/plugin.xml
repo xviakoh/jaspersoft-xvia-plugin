@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.4"?>
+<plugin>
+   <extension
+         point="com.jaspersoft.studio.dataAdapters">
+         <dataAdapter ClassFactory="com.jaspersoft.studio.data.xvia.TrackViaDataAdapterFactory"/>
+   </extension>
+   <extension
+         point="com.jaspersoft.studio.queryDesigner">
+      <queryDesigner
+            QueryDesignerClass="com.jaspersoft.studio.data.xvia.querydesigner.TrackViaQueryDesigner"
+            language="trackvia">
+      </queryDesigner>
+   </extension>
+</plugin>
